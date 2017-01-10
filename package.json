@@ -1,0 +1,25 @@
+{
+  "name": "webpack-cdnizer",
+  "version": "1.0.0",
+  "description": "a webpack plugin for auto cdnizer",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marsprince/webpack-cdnizer.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "marsprince",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marsprince/webpack-cdnizer/issues"
+  },
+  "homepage": "https://github.com/marsprince/webpack-cdnizer#readme",
+  "dependencies":{
+    "cdnizer": "^1.1.6"
+  }
+}
